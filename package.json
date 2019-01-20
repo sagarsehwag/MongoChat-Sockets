@@ -1,0 +1,20 @@
+{
+  "name": "chatapp-socket.io",
+  "version": "1.0.0",
+  "description": "a realtime chat application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "socket.io"
+  ],
+  "author": "sagarsehwag",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.12",
+    "socket.io": "^2.2.0"
+  }
+}
