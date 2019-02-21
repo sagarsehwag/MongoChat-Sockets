@@ -11,15 +11,18 @@ Simple chat app that uses MongoDB and Socket.io
 1.0.0
 ```
 
-## Install Dependencies
-```bash
-npm install 
+## Usage
+
+Install Dependencies
+
+```sh
+$ npm install
 ```
 
-## Run Server
-```bash
-npm start
+Run Server
+
+```sh
+$ npm start
 ```
 
-## Run App
-Open index.html
+Visit http://localhost:5000
